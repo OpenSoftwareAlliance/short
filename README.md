@@ -1,3 +1,17 @@
+<!-- osa:header:start -->
+# OSA Short
+
+URL shortener with analytics. Open alternative to **goo.gl**, part of the [Open Software Alliance](https://github.com/OpenSoftwareAlliance) suite.
+
+| | |
+|---|---|
+| Upstream | [Kutt](https://github.com/thedevs-network/kutt), kept in sync with this repository |
+| License | MIT |
+
+Credit for the original work goes to the Kutt authors. Everything below this header is the upstream README.
+
+---
+<!-- osa:header:end -->
 <p align="center"><a href="https://kutt.to" title="kutt.to"><img src="https://raw.githubusercontent.com/thedevs-network/kutt/9d1c873897c3f5b9a1bd0c74dc5d23f2ed01f2ec/static/images/logo-github.png" alt="Kutt.to"></a></p>
 
 # Kutt.to
@@ -258,4 +272,3 @@ Download Kutt's extension for web browsers via below links.
 Pull requests are welcome. Open a discussion for feedback, requesting features, or discussing ideas.
 
 Special thanks to [Thomas](https://github.com/trgwii) and [Muthu](https://github.com/MKRhere). Logo design by [Muthu](https://github.com/MKRhere).
-
